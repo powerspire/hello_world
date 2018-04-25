@@ -1,2 +1,2 @@
 # hello_world
-First project
+First project I've ever created recently
